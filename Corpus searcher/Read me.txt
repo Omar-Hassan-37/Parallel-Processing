@@ -1,0 +1,5 @@
+Used Master Slave Paradigm.
+1. Master will distribute the corpus files on slaves.
+2. Slaves will search the given part of a corpus.
+3. Each slave will return number of search results found and the corresponding relevant sentences.
+4. Master will collect the number of search results and write them to a file.

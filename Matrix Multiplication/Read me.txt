@@ -1,0 +1,2 @@
+divided the raws of the matrices on threads.
+each thread multpiyes n of raws.
